@@ -1,0 +1,2 @@
+pythin-dotenv
+openai
